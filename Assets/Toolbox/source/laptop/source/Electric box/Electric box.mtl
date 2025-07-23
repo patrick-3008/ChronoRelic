@@ -1,0 +1,220 @@
+newmtl Material.015
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.016
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl None
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.011
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.010
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.012
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.007
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.008
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.009
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Light
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.003
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.004
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.005
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.013
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl Material.014
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.015_diffuse.jpg
+map_Ks Electric box_Material.015_roughness.jpg
+map_bump Electric box_Material.015_normalmap.png
+newmtl None1
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_None_diffuse.jpg
+map_Ks Electric box_None_roughness.jpg
+map_bump Electric box_None_normalmap.png
+newmtl Material.001
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.001_diffuse.jpg
+map_Ks Electric box_Material.001_roughness.jpg
+map_bump Electric box_Material.001_normalmap.png
+newmtl Material.002
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.001_diffuse.jpg
+map_Ks Electric box_Material.001_roughness.jpg
+map_bump Electric box_Material.001_normalmap.png
+newmtl Material.006
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Electric box_Material.006_diffuse.jpg
+map_Ks Electric box_Material.006_roughness.jpg
+map_bump Electric box_Material.006_normalmap.png

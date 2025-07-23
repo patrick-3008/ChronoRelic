@@ -1,0 +1,18 @@
+
+        The world of Aethermoor is a vast realm where magic and technology coexist. Lorenzo, a young mage-engineer, 
+        was chosen by the ancient AI Hemdan to restore balance to the world. The realm is divided into five kingdoms:
+        
+        The Crystal Kingdom of Lumina - Known for their mastery of light magic and crystal technology.
+        The Iron Dominion of Ferros - Masters of mechanical engineering and metal magic.
+        The Verdant Realm of Sylvana - Keepers of nature magic and biological innovations.
+        The Storm Islands of Tempest - Controllers of weather magic and atmospheric technology.
+        The Shadow Territories of Umbra - Wielders of dark magic and shadow-based technologies.
+        
+        Lorenzo's mission is to unite these kingdoms against the growing threat of the Void Blight,
+        a corruption that consumes both magical and technological energy. Hemdan serves as his guide,
+        containing the collective knowledge of the ancient civilization that once ruled Aethermoor.
+        
+        The Void Blight appeared fifty years ago when a failed experiment tried to merge all five
+        types of magic into one ultimate power source. The experiment backfired, creating a spreading
+        corruption that turns everything it touches into lifeless void.
+        

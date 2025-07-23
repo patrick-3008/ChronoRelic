@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 454d8557a83408a4dbebaf34dfd57735
+timeCreated: 1487341088
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89782
+  packageName: Post Processing Volume
+  packageVersion: 1.0
+  assetPath: Assets/Flooded_Grounds/PostProcessing/Utilities/CustomMotionTexture/ExampleProfile.asset
+  uploadId: 181184

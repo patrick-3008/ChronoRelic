@@ -140,7 +140,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - **STT Model:** Built upon [Egyptian Arabic ASR and Diarization](https://github.com/yousefkotp/Egyptian-Arabic-ASR-and-Diarization.git)
 - **TTS Model:** Enhanced version of [Egyptian Text-To-Speech](https://github.com/joejoe03/Egyptian-Text-To-Speech.git)
 - **Dataset Contributors:** 50 volunteer students from Arab Academy for Science, Technology & Maritime Transport
-- **Academic Supervision:** Dr. Ahmed El-Kabbany and supervising professors
+- **Academic Supervision:** Dr. Ahmed El-Kabbany
 - **Cultural Heritage:** Inspired by the rich history of Ancient Egypt
 ---
 ## 📚 Citations
@@ -148,7 +148,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 If you use this work in your research, please cite:
 ```bibtex
 @misc{chrono_relic_2024,
-  title={Chrono Relic: CHRONO RELIC: AN AI­POWERED INTERACTIVE 3D RPG VIDEO GAME},
+  title={CHRONO RELIC: AN AI­POWERED INTERACTIVE 3D RPG VIDEO GAME},
   author={Ahmed Kamal, Alaa Imam, Ismail Fakhr, Patrick Nashaat, Reem Sameh},
   year={July 2025},
   institution={Arab Academy for Science, Technology & Maritime Transport}

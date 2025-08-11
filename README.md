@@ -20,7 +20,7 @@ This project serves as the basis for an academic thesis, exploring the integrati
 
 * 📹 **Gameplay Overview Demo**
   
-    link ->  https://youtu.be/orHdX0ebkpU
+    link:  https://youtu.be/orHdX0ebkpU
   
 
 * 🎙️ **Egyptian Arabic AI Companion Demo**
